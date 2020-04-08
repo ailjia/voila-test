@@ -3,3 +3,4 @@ ipykernel
 bqplot
 ipywidgets
 numpy 
+voila
